@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-09-24T17:05:18.327Z",
+  "created_by": "SteveMarvin",
+  "title": "sound test",
+  "updated_at": "2024-09-24T17:05:18.327Z",
+  "updated_by": "SteveMarvin",
+  "parent": "aa9e4949-d66e-415a-9d1d-32df3018e516",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "4192cd99-5173-42cd-9b6d-afbaadcf6f26"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "1177dcab-e03c-4bd6-9f0f-6a68eb2b5a32": {
+      "label": "sample",
+      "is_offline": false,
+      "file_url": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_700KB.mp3",
+      "duration": 90
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "sample souind"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "sound test",
+  "created_at": "2024-09-24T17:05:18.155Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-09-24T17:05:18.155Z",
+  "updated_by": "SteveMarvin"
+}
